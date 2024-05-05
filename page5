@@ -22,42 +22,20 @@ table, th, td {
   <tr>
     <th>YEAR WISE</th>	
     <th>Computer </th> 	
-    <th>IT</th>
-    <th>Mechanical</th>
-    <th>E&TC</th>
-    <th>Electrical</th>	
-    <th>Civil</th>
-    <th>Mchatronics </th>	
-    <th>Structural</th>
-    <th>MBA</th>	
+    <th>IT</th>	
     <th>Total</th>
   </tr>
   <tr>
     <td>2022-23</td>
     <td>113</td>
     <td>75</td>	
-	<td>217</td>	
-    <td>69</td>
-    <td>71</td>
-    <td>116</td>	
-    <td>NA</td>
-    <td>NA</td>
-    <td>97</td>	
-    <td>758</td>
+    <td>188</td>
   </tr>
   <tr>
     <td>2021-2022</td>
     <td>196</td>
     <td>84</td>
-    <td>131</td>
-    <td>62</td>
-    <td>95</td>
-    <td>48</td>
-    <td>NA</td>
-    <td>NA</td>
-    <td>68</td>
-    <td>684</td>    
-    <td></td>
+    <td> 280</td>
   </tr>
 </table>
 
